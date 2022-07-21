@@ -31,3 +31,7 @@ artifacts
 yarn.lock
 yarn-error.log
 
+backend/venv-arythmatic/Lib
+
+nft-ai/vqgan_imagenet_f16_16384.ckpt
+nft-ai/vqgan_imagenet_f16_16384.yaml
